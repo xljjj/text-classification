@@ -1,2 +1,3 @@
 # text-classification
-基于深度学习的文本分类
+基于深度学习的文本分类<br>
+在华为ModelArts平台使用深度学习模型CNN和LSTM的结构和tensorflow开发框架

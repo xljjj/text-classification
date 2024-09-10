@@ -1,0 +1,16 @@
+{
+    "model_algorithm": "text_classification",
+    "model_type": "TensorFlow",
+    "runtime": "tensorflow_2.1.0-cuda_10.1-py_3.7-ubuntu_18.04-x86_64",
+    "request": {
+        "Content-type": "multipart/form-data",
+        "data": {
+            "type": "object",
+            "properties": {
+                "text": {
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
